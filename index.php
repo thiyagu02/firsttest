@@ -18,6 +18,7 @@
  * NOTE: If you change these, also change the error_reporting() code below
  * a
  */
+ this is for testing
  dded the comment
 	define('SITE_FILE_PATH', dirname(__FILE__));
 	define('ENVIRONMENT', 'development');

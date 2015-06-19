@@ -19,6 +19,7 @@
  * a
  */
 test
+conflict 2
  added the comment
 	define('SITE_FILE_PATH', dirname(__FILE__));
 	define('ENVIRONMENT', 'development');
